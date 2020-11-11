@@ -2,7 +2,7 @@ package com.javaex.practice;
 
 import java.util.Scanner;
 
-public class EX20 {
+public class Ex20 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -31,7 +31,7 @@ public class EX20 {
 		int all = a500+b100+c50+d10;
 		
 		
-		System.out.println("동전의 총합은" + all + " 원 입니다.");
+		System.out.println("동전의 총합은 " + all + " 원 입니다.");
 		
 		
 		
