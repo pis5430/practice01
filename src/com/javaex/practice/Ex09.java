@@ -6,9 +6,10 @@ public class Ex09 {
 		
 		double f=80.0;
 		
-		System.out.println( (double)(5/9) * (double)(f-32.0) );  //결과값이 0이 나오는 이유?
+		System.out.println(5/9*(f-32.0));  // 5/9 가 정수값이 0 이라서 결과값이 0,
 		
-		System.out.println( (double)(f*9/5) + (double)32 );
+		System.out.println( (double)5/9 * (f-32.0));
+		
 
 	}
 
